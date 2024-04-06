@@ -1,0 +1,17 @@
+../Core/Src/ltdc.c:16:6:LCD_PowerOn	1
+../Core/Src/ltdc.c:136:6:LCD_WriteCommand	1
+../Core/Src/ltdc.c:145:6:LCD_WriteData	1
+../Core/Src/ltdc.c:154:6:LCD_FillScreen	3
+../Core/Src/ltdc.c:173:6:LCD_Test	3
+../Core/Src/ltdc.c:188:6:LCD_FillRectangle	5
+../Core/Src/ltdc.c:219:6:LCD_DrawCircle	6
+../Core/Src/ltdc.c:270:6:LCD_DrawPixel	3
+../Core/Src/ltdc.c:285:6:LCD_DrawCross	5
+../Core/Src/ltdc.c:298:6:LCD_DrawLine	7
+../Core/Src/ltdc.c:331:6:LCD_FontsInit	1
+../Core/Src/ltdc.c:338:6:LCD_SetFont	1
+../Core/Src/ltdc.c:343:6:LCD_SetTextColor	1
+../Core/Src/ltdc.c:348:6:LCD_SetBackColor	1
+../Core/Src/ltdc.c:353:6:LCD_DrawChar	10
+../Core/Src/ltdc.c:397:6:LCD_DrawString	7
+../Core/Src/ltdc.c:433:6:LCD_DrawImage	3

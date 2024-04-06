@@ -1,0 +1,9 @@
+../Core/Src/touch.c:30:13:touchReset	1
+../Core/Src/touch.c:42:13:fnctCmd	2
+../Core/Src/touch.c:64:13:ioAFConfig	2
+../Core/Src/touch.c:87:13:readX	4
+../Core/Src/touch.c:116:13:readY	3
+../Core/Src/touch.c:137:13:readZ	2
+../Core/Src/touch.c:150:6:TP_ReadID	1
+../Core/Src/touch.c:160:6:TP_Config	1
+../Core/Src/touch.c:210:6:TP_GetState	5

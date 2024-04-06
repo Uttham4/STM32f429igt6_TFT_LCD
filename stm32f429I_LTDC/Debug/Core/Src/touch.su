@@ -1,0 +1,9 @@
+../Core/Src/touch.c:30:13:touchReset	24	static
+../Core/Src/touch.c:42:13:fnctCmd	32	static
+../Core/Src/touch.c:64:13:ioAFConfig	32	static
+../Core/Src/touch.c:87:13:readX	32	static
+../Core/Src/touch.c:116:13:readY	32	static
+../Core/Src/touch.c:137:13:readZ	32	static
+../Core/Src/touch.c:150:6:TP_ReadID	32	static
+../Core/Src/touch.c:160:6:TP_Config	24	static
+../Core/Src/touch.c:210:6:TP_GetState	40	static
